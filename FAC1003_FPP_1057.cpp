@@ -2,6 +2,8 @@
 #include <string>
 #include <vector>
 #include <conio.h> 
+#include <thread>
+
 using namespace std;
 
 struct Position {
@@ -74,6 +76,9 @@ int main() {
     gameLogs.push_back("Game Initialized. Make your move.");
 
     while (state != GameState::EXIT) {
+
+        // the most amazing addition ull ever see
+        this_thread::sleep_for(360000ms);
      
         while (state == GameState::PLAYING) {
             drawUI(currentStage, player, shadow, shadowActive, gameLogs);
