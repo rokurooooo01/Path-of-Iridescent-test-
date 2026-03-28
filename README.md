@@ -6,7 +6,7 @@ something for my FAC1003 assignment, i figured out i wanna play ts for a bit
 this is for FAC1003 (Programming II) assignment for Pusat Asasi Sains UM. the reason i wanna keep this shit here is so that i wont forget where i put this
 
 
-#what this game is all about?
+# what this game is all about?
 
 escape from your shadow, that's it
 
@@ -22,7 +22,7 @@ D for going right
 while there is indicator where the escape door is located, since this is a text based game, there isnt mini map, so this shit is pretty much try and error lmao. maybe before the due date ends i will update this game a bit more
 
 
-#how to run this game?
+# how to run this game?
 use any C++ compiler or IDE and terminal (i usually use VS2026)
 
 
