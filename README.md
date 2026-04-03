@@ -44,4 +44,4 @@ while i like programming and tech, not like i want to main this as my career pat
 all are welcome to 'pull request' if you want to
 
 # versions
-in this repo, there are two versions of this code, the open source code (named PTI_01 (previously FAC1003_FPP_1057)). FAC1003_FPP_1057 now will be the actual proposal code to be send for the assignment, so PLEASE DO NOT INTERRUPT ANY OF THE CODING!
+in this repo, there are two versions of this code, the open source code (named PTI_01 (previously FAC1003_FPP_1057)). FAC1003_FPP_1057_(ver. iteration no.) now will be the actual proposal code to be send for the assignment, so PLEASE DO NOT INTERRUPT ANY OF THE CODING FOR THAT .cpp FILE ISTG!
